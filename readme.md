@@ -16,7 +16,7 @@
 ## Introduction
 This repo, named **LivePortrait**, contains the official PyTorch implementation of the paper [LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control](https://arxiv.org/pdf/2407.03168).
 
-<p><img src="./assets/docs/results.gif" alt="Our results showcase GIF" width="80%"></p>
+<p align="center"><img src="./assets/docs/results.gif" alt="Our results showcase GIF" width="80%"></p>
 
 For our study, we propose the use of portrait animation on a neutral face mesh to extract emotions while preserving identity instead of having to rendering a 3D facial mesh.
 
